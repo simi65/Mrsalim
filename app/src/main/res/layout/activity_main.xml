@@ -15,6 +15,15 @@
         android:layout_marginTop="8dp"
         android:background="@drawable/a"
         app:layout_constraintTop_toTopOf="parent" />
+    
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="215dp"
+        android:layout_marginTop="8dp"
+        android:text="Makasih"
+        app:layout_constraintTop_toTopOf="parent" />
+           
 
 
 
